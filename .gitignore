@@ -1,0 +1,14 @@
+# ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# ignore virtual environment
+.venv/
+
+# ignore data
+prepared_data/
+train/
+trainLabels.csv
+prepared_data.zip
+
+# ignore model checkpoint
+model checkpoint/
