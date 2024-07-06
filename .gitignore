@@ -5,10 +5,9 @@
 .venv/
 
 # ignore data
-prepared_data/
-train/
-trainLabels.csv
-prepared_data.zip
+aptos_data/
+prepared_data_aptos.zip
+prepared_data_aptos_binary.zip
 
 # ignore model checkpoint
 model checkpoint/
